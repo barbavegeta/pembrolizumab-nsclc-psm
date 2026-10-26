@@ -1,0 +1,4 @@
+"analysis","mean_os_months_pembro","mean_os_months_chemo"
+"TA531 company model (TA531 §3.18, July 2017 data)",36,22.3
+"This model, base case (lognormal, 2020 data)",61.9786896900804,34.1778051801466
+"This model, TA531-like extrapolation (KM to 33 weeks + exponential, 2020 data)",47.6085743063473,27.6790555467974
