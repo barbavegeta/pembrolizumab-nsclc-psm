@@ -1,0 +1,37 @@
+Package: pembropsm
+Title: Partitioned Survival Model of First-Line Pembrolizumab in PD-L1 >= 50% NSCLC
+Version: 0.1.0
+Authors@R: person("Salvatore", "Barbagallo", role = c("aut", "cre"))
+Description: Reconstructs individual patient data from published Kaplan-Meier
+    curves (KEYNOTE-024, 5-year analysis) and implements a generic three-state
+    partitioned survival cost-effectiveness model.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports:
+    flexsurv,
+    muhaz,
+    survival,
+    IPDfromKM,
+    ggplot2,
+    readr,
+    dplyr
+Suggests:
+    survHE,
+    mvtnorm,
+    tidyr,
+    readxl,
+    openxlsx,
+    writexl,
+    shiny,
+    purrr,
+    knitr,
+    rmarkdown,
+    roxygen2,
+    testthat (>= 3.0.0),
+    targets,
+    tarchetypes,
+    quarto,
+    pkgload
+Config/testthat/edition: 3
