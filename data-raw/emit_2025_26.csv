@@ -1,0 +1,7 @@
+"drug","n_presentations","units_sold","price_per_mg","presentations"
+"carboplatin",4,68200.862527289,0.0618353430074342,"Carboplatin 150mg [0.0633/mg]; Carboplatin 450mg [0.0392/mg]; Carboplatin 50mg [0.1234/mg]; Carboplatin 600mg [0.0394/mg]"
+"cisplatin",3,38012.7781704671,0.209502958828388,"Cisplatin 100mg [0.1971/mg]; Cisplatin 10mg [0.3275/mg]; Cisplatin 50mg [0.2142/mg]"
+"docetaxel",3,37857.0360831427,0.17246764704877,"Docetaxel 160mg [0.1103/mg]; Docetaxel 20mg [0.2797/mg]; Docetaxel 80mg [0.1483/mg]"
+"gemcitabine",6,13744.7081258067,0.0250915499145791,"Gemcitabine 1g powder for solution for infusion vials [0.0233/mg]; Gemcitabine 1g [0.0225/mg]; Gemcitabine 200mg powder for solution for infusion vials [0.0501/mg]; Gemcitabine 200mg [0.0496/mg]; Gemcitabine 200mg [0.0406/mg]; Gemcitabine 2g [0.0127/mg]"
+"paclitaxel",4,107592.031592295,0.126812862421841,"Paclitaxel 100mg [0.1727/mg]; Paclitaxel 150mg [0.0685/mg]; Paclitaxel 300mg [0.0734/mg]; Paclitaxel 30mg [0.1923/mg]"
+"pemetrexed",6,37311.1627800586,0.386687494595946,"Pemetrexed 100mg powder for solution for injection vials  (generic) [0.6100/mg]; Pemetrexed 100mg [0.3409/mg]; Pemetrexed 1g [0.0763/mg]; Pemetrexed 500mg powder for solution for injection vials (generic) [0.4651/mg]; Pemetrexed 500mg [0.2575/mg]; Pemetrexed 850mg [0.0556/mg]"

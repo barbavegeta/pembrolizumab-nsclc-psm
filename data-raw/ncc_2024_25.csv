@@ -1,0 +1,9 @@
+"hrg","description","setting","unit_cost"
+"SB12Z","Deliver Simple Parenteral Chemotherapy at First Attendance","Daycase",435.505207185967
+"SB12Z","Deliver Simple Parenteral Chemotherapy at First Attendance","Outpatient Procedures",256.032311274462
+"SB13Z","Deliver more Complex Parenteral Chemotherapy at First Attendance","Daycase",553.427779236738
+"SB13Z","Deliver more Complex Parenteral Chemotherapy at First Attendance","Outpatient Procedures",300.80702651775
+"SB14Z","Deliver Complex Chemotherapy, including Prolonged Infusional Treatment, at First Attendance","Daycase",571.261006269322
+"SB14Z","Deliver Complex Chemotherapy, including Prolonged Infusional Treatment, at First Attendance","Outpatient Procedures",430.623939397228
+"SB15Z","Deliver Subsequent Elements of a Chemotherapy Cycle","Daycase",438.412481512276
+"SB15Z","Deliver Subsequent Elements of a Chemotherapy Cycle","Outpatient Procedures",290.301602915971

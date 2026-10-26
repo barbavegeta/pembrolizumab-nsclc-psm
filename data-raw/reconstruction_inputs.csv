@@ -1,0 +1,5 @@
+endpoint,arm,n_randomised,total_events,source,source_check_id
+os,pembro,154,103,"Reck et al. J Clin Oncol 2021;39(21):2339-2349, Results",R1;R7
+os,chemo,151,123,"Reck et al. J Clin Oncol 2021;39(21):2339-2349, Results",R1;R7
+pfs,pembro,154,126,"Reck et al. J Clin Oncol 2021;39(21):2339-2349, Results",R1;R8
+pfs,chemo,151,141,"Reck et al. J Clin Oncol 2021;39(21):2339-2349, Results",R1;R8

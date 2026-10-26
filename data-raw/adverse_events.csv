@@ -1,0 +1,21 @@
+ae,rate_pembro,rate_chemo,n_pembro,n_chemo,unit_cost_201415,cost_source
+Nausea,0.000,0.027,154,150,967.99,Brown 2013
+Anaemia,0.045,0.233,154,150,2610.66,NICE ID840
+Fatigue,0.013,0.047,154,150,2768.35,Brown 2013
+Diarrhoea (grade 2),0.026,0.027,154,150,442.76,NICE ID840
+Diarrhoea (grade 3+),0.039,0.020,154,150,967.99,Brown 2013
+Dyspnoea,0.019,0.027,154,150,571.06,NICE TA403
+Vomiting,0.006,0.020,154,150,764.71,NICE TA192
+Neutropaenia,0.000,0.140,154,150,117.31,Brown 2013
+Alanine aminotransferase increased,0.013,0.000,154,150,598.85,NICE TA347
+Rash,0.013,0.000,154,150,123.34,Brown 2013
+Asthenia,0.006,0.027,154,150,2768.35,Brown 2013
+Thrombocytopaenia,0.000,0.060,154,150,758.50,NICE ID865
+Neutrophil count decreased,0.000,0.040,154,150,179.83,NICE ID840
+Aspartate aminotransferase increased,0.013,0.000,154,150,342.78,NICE TA347
+Pneumonia,0.019,0.073,154,150,3008.41,NICE ID835
+White blood cell count decreased,0.000,0.020,154,150,560.08,NICE ID840
+Urinary tract infection,0.006,0.013,154,150,2225.03,NICE TA347
+Neuropathy peripheral,0.000,0.007,154,150,19.76,NICE TA162
+Pneumonitis,0.026,0.007,154,150,3008.41,Assumed equal to pneumonia
+Febrile neutropaenia,0.000,0.020,154,150,6831.00,Brown 2013

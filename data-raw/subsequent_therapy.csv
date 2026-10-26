@@ -1,0 +1,4 @@
+therapy,n_pembro,n_chemo,N_pembro,N_chemo,costed_as,source
+Immunotherapy (anti-PD-(L)1),20,99,154,151,pembrolizumab 200 mg Q3W for subsequent_io_weeks,"Reck 2021 Appendix Table A1 ('Immunotherapy' row; chemotherapy arm includes 83 on-study crossovers)"
+Platinum doublet chemotherapy,57,8,154,151,KEYNOTE-024 first-line regimen mix for subsequent_doublet_cycles,"Reck 2021 Appendix Table A1 ('Platinum doublet chemotherapy with or without bevacizumab' row)"
+Single-agent chemotherapy,31,43,154,151,docetaxel 75 mg/m2 Q3W for subsequent_docetaxel_cycles,"Reck 2021 Appendix Table A1 ('Single-agent chemotherapy with or without antiangiogenic agent' row)"

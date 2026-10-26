@@ -1,0 +1,37 @@
+key,value,source,source_check_id
+n_pembro,154,Reck 2021,R1
+n_chemo,151,Reck 2021,R1
+median_os_pembro,26.3,Reck 2021,R2
+median_os_chemo,13.4,Reck 2021,R2
+hr_os,0.62,Reck 2021,R2
+hr_os_lower,0.48,Reck 2021,R2
+hr_os_upper,0.81,Reck 2021,R2
+os5_pembro_pct,31.9,Reck 2021,R3
+os5_chemo_pct,16.3,Reck 2021,R3
+median_pfs_pembro,7.7,Reck 2021,R4
+median_pfs_chemo,5.5,Reck 2021,R4
+hr_pfs,0.50,Reck 2021,R4
+hr_pfs_lower,0.39,Reck 2021,R4
+hr_pfs_upper,0.65,Reck 2021,R4
+crossover_pct,66.0,Reck 2021,R6
+crossover_n,99,Reck 2021,R6
+followup_median_months,59.9,Reck 2021,R9
+ta531_horizon_years,20,NICE TA531 §3.10,N1
+ta531_max_cycles,35,NICE TA531 §3.6,N2
+ta531_cutoff_base_weeks,33,NICE TA531 §3.9,N4
+ta531_cutoff_low_weeks,23,NICE TA531 §3.9,N4
+ta531_cutoff_high_weeks,43,NICE TA531 §3.9,N4
+ta531_icer_base,30244,NICE TA531 §3.9,N4
+ta531_icer_23w,31321,NICE TA531 §3.9,N5
+ta531_icer_43w,33829,NICE TA531 §3.9,N5
+ta531_icer_wane3,44483,NICE TA531 §3.11,N6
+ta531_icer_wane5,36156,NICE TA531 §3.11,N6
+ta531_range_low,30000,NICE TA531 §3.16,N10
+ta531_range_high,50000,NICE TA531 §3.16,N10
+ta531_mean_os_pembro_months,36.0,NICE TA531 §3.18,N12
+ta531_mean_os_chemo_months,22.3,NICE TA531 §3.18,N12
+ta531_chemo_5y_os_low_pct,8,NICE TA531 §3.16,N10
+ta531_chemo_5y_os_high_pct,11,NICE TA531 §3.16,N10
+ta531_followup_months,25.2,NICE TA531 §3.5,N15
+ta531_crossover_pct,43.7,NICE TA531 committee papers p265,C12
+pem_maint_n,46,NICE TA531 committee papers p155,C8

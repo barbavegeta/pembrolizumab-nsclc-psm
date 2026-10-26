@@ -1,0 +1,6 @@
+regimen,share_keynote024,platinum,partner,partner_doses_per_cycle,admin_items,source
+gem_carb,0.133,carboplatin,gemcitabine,2,admin_sb14z_op+admin_sb15z_op,"Shares: committee papers PDF p284 Table 69 (KEYNOTE-024, all histologies); admin: Table 72 (p287); gemcitabine on days 1 and 8"
+gem_cis,0.073,cisplatin,gemcitabine,2,admin_sb14z_dc+admin_sb15z_op,"Table 69 (p284); Table 72 (p287)"
+pac_carb,0.113,carboplatin,paclitaxel,1,admin_sb14z_op,"Table 69 (p284); Table 72 (p287)"
+pem_cis,0.440,cisplatin,pemetrexed,1,admin_sb14z_dc,"Table 69 (p284); Table 72-73 (p287-288)"
+pem_carb,0.240,carboplatin,pemetrexed,1,admin_sb14z_op,"Table 69 (p284); Table 72-73 (p287-288)"
