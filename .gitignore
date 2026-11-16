@@ -1,0 +1,16 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# targets store and renv library (rebuilt locally)
+_targets/
+renv/library/
+renv/local/
+renv/staging/
+renv/sandbox/
+
+# OS / editor
+.DS_Store
+*Zone.Identifier
